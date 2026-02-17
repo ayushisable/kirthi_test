@@ -1,0 +1,11 @@
+.parent{
+    background-color: royalblue;
+    height: 70px;
+}
+.parent a{
+         color: white;
+         font-size: 250;
+}
+.bg{
+    background-color: red;
+}
