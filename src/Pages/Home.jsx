@@ -12,6 +12,10 @@ const Home = () =>{
        <h1> Welcome to home page</h1>
 
       </section>
+
+      <section>
+          <h1> hello </h1>
+          <section/>
     </div>
   )
 
